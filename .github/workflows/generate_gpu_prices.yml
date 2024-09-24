@@ -41,4 +41,4 @@ jobs:
         git add gpu_prices.json
         current_date=$(date +"%Y-%m-%d")  # Get the current date in the format YYYY-MM-DD
         git commit -m "Update GPU prices on $current_date"
-        git push origin gpu-price --force
+        git push origin main
