@@ -37,7 +37,6 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git checkout -B gpu-price  # Create or switch to gpu-price branch
         git add gpu_prices.json
         current_date=$(date +"%Y-%m-%d")  # Get the current date in the format YYYY-MM-DD
         git commit -m "Update GPU prices on $current_date"
