@@ -2,7 +2,7 @@ import gpuhunt
 import json
 
 # Query GPU instances from gpuhunt
-items = gpuhunt.query(gpu_name=['MI300X', 'A100', 'H100', 'H200'])
+items = gpuhunt.query(gpu_name=['MI300X', 'H100', 'H200'])
 
 # Function to convert gpuhunt CatalogItems to the desired JSON format
 def convert_to_json(items):
