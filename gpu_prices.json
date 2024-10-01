@@ -40,6 +40,16 @@
         "provider": "runpod"
     },
     {
+        "gpuModel": "H100",
+        "price": "$1.50",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$1.50",
+        "provider": "runpod"
+    },
+    {
         "gpuModel": "MI300X",
         "price": "$1.50",
         "provider": "runpod"
@@ -51,23 +61,23 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$1.50",
+        "price": "$1.68",
+        "provider": "datacrunch"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$1.68",
+        "provider": "datacrunch"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$1.68",
+        "provider": "datacrunch"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$1.75",
         "provider": "runpod"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$1.68",
-        "provider": "datacrunch"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$1.68",
-        "provider": "datacrunch"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$1.68",
-        "provider": "datacrunch"
     },
     {
         "gpuModel": "H100",
@@ -98,6 +108,16 @@
         "gpuModel": "MI300X",
         "price": "$2.00",
         "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$2.04",
+        "provider": "vastai"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$1.78",
+        "provider": "vastai"
     },
     {
         "gpuModel": "H100",
@@ -186,7 +206,12 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$2.70",
+        "price": "$2.69",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$2.69",
         "provider": "runpod"
     },
     {
@@ -196,17 +221,7 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$2.83",
-        "provider": "tensordock"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$2.89",
-        "provider": "runpod"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$2.89",
+        "price": "$2.70",
         "provider": "runpod"
     },
     {
@@ -257,6 +272,26 @@
     {
         "gpuModel": "H100",
         "price": "$2.99",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$2.99",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$2.99",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$3.00",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$3.00",
         "provider": "runpod"
     },
     {
@@ -276,12 +311,7 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$3.00",
-        "provider": "runpod"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$3.26",
+        "price": "$3.22",
         "provider": "tensordock"
     },
     {
@@ -321,13 +351,13 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$3.47",
-        "provider": "tensordock"
+        "price": "$3.50",
+        "provider": "runpod"
     },
     {
         "gpuModel": "H100",
-        "price": "$3.49",
-        "provider": "tensordock"
+        "price": "$3.50",
+        "provider": "runpod"
     },
     {
         "gpuModel": "H100",
@@ -347,42 +377,17 @@
     {
         "gpuModel": "H100",
         "price": "$3.50",
-        "provider": "runpod"
+        "provider": "tensordock"
     },
     {
         "gpuModel": "H100",
         "price": "$3.51",
-        "provider": "tensordock"
+        "provider": "vastai"
     },
     {
         "gpuModel": "H100",
-        "price": "$3.54",
-        "provider": "tensordock"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$3.60",
-        "provider": "tensordock"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$3.61",
-        "provider": "tensordock"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$3.61",
-        "provider": "tensordock"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$3.61",
-        "provider": "tensordock"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$3.61",
-        "provider": "tensordock"
+        "price": "$2.27",
+        "provider": "vastai"
     },
     {
         "gpuModel": "H100",
@@ -441,16 +446,6 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$4.37",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$3.20",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
         "price": "$4.50",
         "provider": "runpod"
     },
@@ -491,7 +486,12 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$5.40",
+        "price": "$5.38",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$5.38",
         "provider": "runpod"
     },
     {
@@ -501,12 +501,7 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$5.78",
-        "provider": "runpod"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$5.78",
+        "price": "$5.40",
         "provider": "runpod"
     },
     {
@@ -551,7 +546,12 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$6.00",
+        "price": "$5.98",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$5.98",
         "provider": "runpod"
     },
     {
@@ -561,6 +561,11 @@
     },
     {
         "gpuModel": "MI300X",
+        "price": "$6.00",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
         "price": "$6.00",
         "provider": "runpod"
     },
@@ -761,17 +766,22 @@
     },
     {
         "gpuModel": "H100",
+        "price": "$8.07",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$8.07",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
         "price": "$8.10",
         "provider": "runpod"
     },
     {
         "gpuModel": "H100",
-        "price": "$8.67",
-        "provider": "runpod"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$8.67",
+        "price": "$8.10",
         "provider": "runpod"
     },
     {
@@ -781,33 +791,8 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$8.74",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$6.40",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$5.34",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$4.53",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$3.66",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$2.40",
-        "provider": "vastai"
+        "price": "$8.70",
+        "provider": "runpod"
     },
     {
         "gpuModel": "H100",
@@ -863,6 +848,11 @@
         "gpuModel": "H100",
         "price": "$9.00",
         "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$9.14",
+        "provider": "gcp"
     },
     {
         "gpuModel": "H100",
@@ -901,6 +891,16 @@
     },
     {
         "gpuModel": "H100",
+        "price": "$10.50",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$10.76",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
         "price": "$10.76",
         "provider": "runpod"
     },
@@ -911,7 +911,7 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$10.80",
+        "price": "$10.76",
         "provider": "runpod"
     },
     {
@@ -963,21 +963,6 @@
         "gpuModel": "H100",
         "price": "$11.09",
         "provider": "gcp"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$11.56",
-        "provider": "runpod"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$11.56",
-        "provider": "runpod"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$11.60",
-        "provider": "runpod"
     },
     {
         "gpuModel": "H100",
@@ -1081,12 +1066,22 @@
     },
     {
         "gpuModel": "H100",
+        "price": "$12.25",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
         "price": "$12.37",
         "provider": "gcp"
     },
     {
         "gpuModel": "H100",
         "price": "$12.37",
+        "provider": "gcp"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$12.96",
         "provider": "gcp"
     },
     {
@@ -1151,6 +1146,16 @@
     },
     {
         "gpuModel": "H100",
+        "price": "$13.45",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$13.45",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
         "price": "$13.60",
         "provider": "gcp"
     },
@@ -1193,16 +1198,6 @@
         "gpuModel": "H100",
         "price": "$14.19",
         "provider": "gcp"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$14.45",
-        "provider": "runpod"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$14.45",
-        "provider": "runpod"
     },
     {
         "gpuModel": "H100",
@@ -1276,6 +1271,21 @@
     },
     {
         "gpuModel": "H100",
+        "price": "$16.14",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$16.14",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$16.14",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
         "price": "$17.14",
         "provider": "vastai"
     },
@@ -1286,8 +1296,23 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$17.34",
-        "provider": "runpod"
+        "price": "$7.01",
+        "provider": "vastai"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$4.53",
+        "provider": "vastai"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$6.28",
+        "provider": "vastai"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$6.08",
+        "provider": "vastai"
     },
     {
         "gpuModel": "H100",
@@ -1307,6 +1332,16 @@
     {
         "gpuModel": "H100",
         "price": "$17.94",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$18.27",
+        "provider": "gcp"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$18.83",
         "provider": "runpod"
     },
     {
@@ -1326,7 +1361,12 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$20.23",
+        "price": "$20.93",
+        "provider": "runpod"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$20.93",
         "provider": "runpod"
     },
     {
@@ -1396,93 +1436,83 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$23.12",
+        "price": "$23.92",
+        "provider": "lambdalabs"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$23.92",
+        "provider": "lambdalabs"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$23.92",
+        "provider": "lambdalabs"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$23.92",
+        "provider": "lambdalabs"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$23.92",
+        "provider": "lambdalabs"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$23.92",
+        "provider": "lambdalabs"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$23.92",
+        "provider": "lambdalabs"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$23.92",
+        "provider": "lambdalabs"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$23.92",
+        "provider": "lambdalabs"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$23.92",
+        "provider": "lambdalabs"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$23.92",
+        "provider": "lambdalabs"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$23.92",
+        "provider": "lambdalabs"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$23.92",
+        "provider": "lambdalabs"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$23.92",
+        "provider": "lambdalabs"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$23.92",
         "provider": "runpod"
     },
     {
         "gpuModel": "H100",
-        "price": "$23.12",
-        "provider": "runpod"
-    },
-    {
-        "gpuModel": "H100",
         "price": "$23.92",
         "provider": "runpod"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$23.92",
-        "provider": "runpod"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$23.92",
-        "provider": "lambdalabs"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$23.92",
-        "provider": "lambdalabs"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$23.92",
-        "provider": "lambdalabs"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$23.92",
-        "provider": "lambdalabs"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$23.92",
-        "provider": "lambdalabs"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$23.92",
-        "provider": "lambdalabs"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$23.92",
-        "provider": "lambdalabs"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$23.92",
-        "provider": "lambdalabs"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$23.92",
-        "provider": "lambdalabs"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$23.92",
-        "provider": "lambdalabs"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$23.92",
-        "provider": "lambdalabs"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$23.92",
-        "provider": "lambdalabs"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$23.92",
-        "provider": "lambdalabs"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$23.92",
-        "provider": "lambdalabs"
     },
     {
         "gpuModel": "MI300X",
@@ -1546,6 +1576,11 @@
     },
     {
         "gpuModel": "H100",
+        "price": "$25.91",
+        "provider": "gcp"
+    },
+    {
+        "gpuModel": "H100",
         "price": "$26.60",
         "provider": "gcp"
     },
@@ -1596,48 +1631,18 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$28.31",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$17.07",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$6.28",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$6.08",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$6.08",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$5.87",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$28.39",
-        "provider": "gcp"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$28.39",
-        "provider": "gcp"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$29.62",
+        "price": "$28.28",
         "provider": "aws"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$28.39",
+        "provider": "gcp"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$28.39",
+        "provider": "gcp"
     },
     {
         "gpuModel": "H100",
@@ -1671,8 +1676,13 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$36.52",
+        "price": "$36.10",
         "provider": "aws"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$36.55",
+        "provider": "gcp"
     },
     {
         "gpuModel": "H100",
@@ -1746,16 +1756,16 @@
     },
     {
         "gpuModel": "H100",
+        "price": "$48.11",
+        "provider": "aws"
+    },
+    {
+        "gpuModel": "H100",
         "price": "$48.36",
         "provider": "gcp"
     },
     {
         "gpuModel": "H100",
-        "price": "$48.52",
-        "provider": "aws"
-    },
-    {
-        "gpuModel": "H100",
         "price": "$48.77",
         "provider": "gcp"
     },
@@ -1802,6 +1812,11 @@
     {
         "gpuModel": "H100",
         "price": "$49.46",
+        "provider": "gcp"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$51.82",
         "provider": "gcp"
     },
     {
@@ -1882,6 +1897,16 @@
     {
         "gpuModel": "H100",
         "price": "$73.34",
+        "provider": "gcp"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$73.58",
+        "provider": "gcp"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$76.86",
         "provider": "gcp"
     },
     {
@@ -2226,6 +2251,11 @@
     },
     {
         "gpuModel": "H100",
+        "price": "$104.43",
+        "provider": "gcp"
+    },
+    {
+        "gpuModel": "H100",
         "price": "$105.18",
         "provider": "gcp"
     },
@@ -2233,6 +2263,11 @@
         "gpuModel": "H100",
         "price": "$105.20",
         "provider": "aws"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$110.23",
+        "provider": "gcp"
     },
     {
         "gpuModel": "H100",
