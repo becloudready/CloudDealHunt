@@ -616,7 +616,7 @@
     },
     {
         "gpuModel": "H200",
-        "price": "$3.67",
+        "price": "$3.64",
         "provider": "vastai"
     },
     {
@@ -2325,56 +2325,6 @@
         "provider": "vastai"
     },
     {
-        "gpuModel": "H100",
-        "price": "$17.70",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$16.00",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$2.17",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$0.45",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$4.35",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$0.89",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H200",
-        "price": "$14.86",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H200",
-        "price": "$13.18",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$8.06",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$7.20",
-        "provider": "vastai"
-    },
-    {
         "gpuModel": "H200",
         "price": "$7.71",
         "provider": "vastai"
@@ -2386,27 +2336,27 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$2.78",
+        "price": "$2.45",
         "provider": "vastai"
     },
     {
         "gpuModel": "H100",
-        "price": "$1.67",
+        "price": "$2.27",
+        "provider": "vastai"
+    },
+    {
+        "gpuModel": "H200",
+        "price": "$14.78",
+        "provider": "vastai"
+    },
+    {
+        "gpuModel": "H200",
+        "price": "$13.18",
         "provider": "vastai"
     },
     {
         "gpuModel": "H100",
-        "price": "$5.56",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$3.33",
-        "provider": "vastai"
-    },
-    {
-        "gpuModel": "H100",
-        "price": "$6.01",
+        "price": "$5.97",
         "provider": "vastai"
     },
     {
@@ -2416,12 +2366,12 @@
     },
     {
         "gpuModel": "H100",
-        "price": "$2.56",
+        "price": "$2.81",
         "provider": "vastai"
     },
     {
         "gpuModel": "H100",
-        "price": "$1.70",
+        "price": "$1.67",
         "provider": "vastai"
     },
     {
@@ -2432,6 +2382,46 @@
     {
         "gpuModel": "H200",
         "price": "$2.99",
+        "provider": "vastai"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$2.78",
+        "provider": "vastai"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$1.53",
+        "provider": "vastai"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$2.60",
+        "provider": "vastai"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$2.27",
+        "provider": "vastai"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$16.13",
+        "provider": "vastai"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$13.87",
+        "provider": "vastai"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$8.00",
+        "provider": "vastai"
+    },
+    {
+        "gpuModel": "H100",
+        "price": "$6.93",
         "provider": "vastai"
     },
     {
